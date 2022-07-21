@@ -1,4 +1,4 @@
-module github.com/NavExplorer/subscriber
+module github.com/navcoin/subscriber
 
 go 1.14
 
